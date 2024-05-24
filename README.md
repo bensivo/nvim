@@ -18,13 +18,15 @@ Plugins included in this repo:
 - Undotree - better undos
 - LSP Zero - LSP configuration
 - Mason - LSP package manager
+- ToggleTerm - manage the terminal better
 
 
 
-Some remaps:
+Some nice remaps:
 
 - leader: " "
 - find files by name: <leader>ff
 - find files by grep: <leader>fg
 - find lines by grep: <leader>fs
 - undotree: <leader>u
+- toggle terminal: <leader>t

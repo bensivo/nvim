@@ -55,4 +55,9 @@ return require('packer').startup(function(use)
 	  "neovim/nvim-lspconfig",
   }
 
+  -- Toggleterm, better terminal windows
+  use {"akinsho/toggleterm.nvim", tag = '*', config = function()
+	  require("toggleterm").setup()
+  end}
+
 end)
