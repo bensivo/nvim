@@ -25,8 +25,8 @@ Plugins included in this repo:
 Some nice remaps:
 
 - leader: " "
+- open file explorer: <leader>e
 - find files by name: <leader>ff
 - find files by grep: <leader>fg
-- find lines by grep: <leader>fs
 - undotree: <leader>u
 - toggle terminal: <leader>t
