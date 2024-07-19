@@ -9,4 +9,3 @@ lsp_zero.on_attach(function(client, bufnr)
   })
 end)
 
--- here you can setup the language servers
